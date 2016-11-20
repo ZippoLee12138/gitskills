@@ -2,3 +2,6 @@ git test
 
 change1
 from anotherGitskills branch dev
+
+change2
+from one branch dev
