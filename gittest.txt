@@ -10,3 +10,6 @@ from anotherGitskills branch dev
 
 change2
 from one branch dev
+
+set tag v1.0
+from anotherGitskills brancj dev
